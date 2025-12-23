@@ -1,0 +1,7 @@
+{
+  "job_id": "TEST-001",
+  "package": "starter",
+  "seed_handles": ["exampleuser1", "exampleuser2"],
+  "targets": { "deliver": 40 },
+  "options": { "mock": true }
+}
