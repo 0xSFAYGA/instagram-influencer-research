@@ -8,10 +8,7 @@ __pycache__/
 *.xlsx
 *.parquet
 .env.example
-__pycache__/
-*.pyc
-*.pyo
-*.py    
+__pycache__/ 
 myenv
 .myenv
 myenv
