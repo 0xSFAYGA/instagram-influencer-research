@@ -7,3 +7,11 @@ __pycache__/
 *.csv
 *.xlsx
 *.parquet
+.env.example
+__pycache__/
+*.pyc
+*.pyo
+*.py    
+myenv
+.myenv
+myenv
